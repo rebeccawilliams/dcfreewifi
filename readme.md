@@ -1,3 +1,8 @@
+Remixing [Jlord](http://www.github.com)'s wonderful Hack Spots site for DC free wifi locations, but right now I need to go to bed. 
+
+
+
+
 # Hi!
 
 ![screenshot](https://raw.github.com/jlord/hack-spots/gh-pages/img/hackspotsss.png)
